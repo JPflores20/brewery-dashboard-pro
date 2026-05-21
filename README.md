@@ -425,5 +425,5 @@ Proyecto privado — Uso interno de Corona / Grupo Modelo.
 ---
 
 <p align="center">
-  Desarrollado con ❤️ para el Proyecto ZEUS — Cervecería CCZ
+  Cervecería CCZ
 </p>
